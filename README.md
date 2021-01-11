@@ -1,2 +1,5 @@
 # PAX
-Pràctica visualització de dades
+Pràctica Visualització de Dades. Consta de:
+
+*fdsfas
+
